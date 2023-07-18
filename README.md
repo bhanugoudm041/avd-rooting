@@ -1,5 +1,5 @@
 # avd-rooting
-rooting avds 
+rooting avds NOTE: view it raw mode
 
 
 Rooting android studio emulator;
