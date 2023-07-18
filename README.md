@@ -1,0 +1,2 @@
+# avd-rooting
+rooting avds 
